@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1777208138836,
+    "userId": 1777202398690,
+    "username": "notvinyl",
+    "ilsScore": {
+      "act_ref": 0,
+      "sen_int": 1,
+      "vis_ver": 0,
+      "seq_glo": 0
+    },
+    "mbtiType": "INFP",
+    "date": "2026.04.26 20:55:38"
+  },
+  {
+    "id": 1777210184930,
+    "userId": 1777202398690,
+    "username": "notvinyl",
+    "ilsScore": {
+      "act_ref": 0,
+      "sen_int": 0,
+      "vis_ver": 0,
+      "seq_glo": 0
+    },
+    "mbtiType": "INFP",
+    "date": "2026.04.26 21:29:44"
+  },
+  {
+    "id": 1777210619606,
+    "userId": 1777210465889,
+    "username": "herald_ireedui",
+    "ilsScore": {
+      "act_ref": 0,
+      "sen_int": 0,
+      "vis_ver": 0,
+      "seq_glo": 0
+    },
+    "mbtiType": "INFP",
+    "date": "2026.04.26 21:36:59"
+  }
+]

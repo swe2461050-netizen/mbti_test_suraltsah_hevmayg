@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="mn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning Style Finder - Street Aesthetic</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="dark-mode">
+    <div id="app">
+        <nav id="navbar" class="hidden">
+            <div class="logo">LEARNING STYLE</div>
+            <div class="nav-links">
+                <a href="#" onclick="showPage('dashboard')">Хянах самбар</a>
+                <a href="#" onclick="showPage('test')">Тест өгөх</a>
+                <a href="#" onclick="logout()">Гарах</a>
+                <button id="theme-toggle" onclick="toggleTheme()">🌓</button>
+            </div>
+        </nav>
+
+        <main id="main-content">
+            <!-- Content will be injected here -->
+        </main>
+
+        <!-- Modals or Notifications -->
+        <div id="notification" class="hidden"></div>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
